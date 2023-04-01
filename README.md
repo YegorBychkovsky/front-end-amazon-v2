@@ -3,6 +3,6 @@ This is a FullStack project with:
 - NextJs
 - NestJs
 - PostgreSQL
-T- ypescript
+- Typescript
 
 Backend you can find here : https://github.com/YegorBychkovsky/back-end-amazon-v2
